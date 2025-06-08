@@ -68,6 +68,33 @@ interface AuthorityData {
   YEAR_count: string
 }
 
+// Additional type definitions for chart data
+interface FilteredDataType {
+  countryYear: CountryYearData[]
+  technology: TechnologyData[]
+  tidy: TidyData[]
+  authority: AuthorityData[]
+}
+
+interface CountryTotals {
+  [country: string]: number
+}
+
+interface TechTotals {
+  [tech: string]: number
+}
+
+interface AuthorityTotals {
+  [authority: string]: number
+}
+
+interface YearData {
+  [year: string]: {
+    year: string
+    [country: string]: string | number
+  }
+}
+
 const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#8884D8", "#82CA9D", "#FFC658", "#FF7C7C"]
 
 export default function OECDPatentDashboard() {
@@ -85,7 +112,7 @@ export default function OECDPatentDashboard() {
   const [technologySearch, setTechnologySearch] = useState<string>("")
 
   // Processed data for visualizations
-  const [filteredData, setFilteredData] = useState<any>({})
+  const [filteredData, setFilteredData] = useState<Partial<FilteredDataType>>({})
 
   // Load data from CSV URLs
   useEffect(() => {
@@ -106,7 +133,7 @@ export default function OECDPatentDashboard() {
         ])
 
         // Parse CSV data
-        const parseCSV = (text: string) => {
+        const parseCSV = (text: string): Record<string, string>[] => {
           const lines = text.split("\n")
           const headers = lines[0].split(",").map((h) => h.replace(/"/g, ""))
           return lines
@@ -114,7 +141,7 @@ export default function OECDPatentDashboard() {
             .filter((line) => line.trim())
             .map((line) => {
               const values = line.split(",").map((v) => v.replace(/"/g, ""))
-              const obj: any = {}
+              const obj: Record<string, string> = {}
               headers.forEach((header, index) => {
                 obj[header] = values[index] || ""
               })
@@ -122,10 +149,10 @@ export default function OECDPatentDashboard() {
             })
         }
 
-        setCountryYearData(parseCSV(countryYearText))
-        setTechnologyData(parseCSV(technologyText))
-        setTidyData(parseCSV(tidyText))
-        setAuthorityData(parseCSV(authorityText))
+        setCountryYearData(parseCSV(countryYearText) as unknown as CountryYearData[])
+        setTechnologyData(parseCSV(technologyText) as unknown as TechnologyData[])
+        setTidyData(parseCSV(tidyText) as unknown as TidyData[])
+        setAuthorityData(parseCSV(authorityText) as unknown as AuthorityData[])
 
         setLoading(false)
       } catch (error) {
@@ -204,7 +231,7 @@ export default function OECDPatentDashboard() {
     const uniqueFilteredCountries = new Set(filteredData.countryYear.map((d: CountryYearData) => d.COUNTRY_NAME))
     const countries = uniqueFilteredCountries.size
 
-    const countryTotals = filteredData.countryYear.reduce((acc: any, d: CountryYearData) => {
+    const countryTotals = filteredData.countryYear.reduce((acc: CountryTotals, d: CountryYearData) => {
       acc[d.COUNTRY_NAME] = (acc[d.COUNTRY_NAME] || 0) + Number.parseFloat(d.OBS_VALUE_sum || "0")
       return acc
     }, {})
@@ -220,7 +247,7 @@ export default function OECDPatentDashboard() {
   const getCountryPatentData = () => {
     if (!filteredData.countryYear) return []
 
-    const countryTotals = filteredData.countryYear.reduce((acc: any, d: CountryYearData) => {
+    const countryTotals = filteredData.countryYear.reduce((acc: CountryTotals, d: CountryYearData) => {
       acc[d.COUNTRY_NAME] = (acc[d.COUNTRY_NAME] || 0) + Number.parseFloat(d.OBS_VALUE_sum || "0")
       return acc
     }, {})
@@ -231,24 +258,12 @@ export default function OECDPatentDashboard() {
       .slice(0, 15)
   }
 
-  const getYearlyTrendData = () => {
-    if (!filteredData.countryYear) return []
 
-    const yearTotals = filteredData.countryYear.reduce((acc: any, d: CountryYearData) => {
-      const year = d.YEAR
-      acc[year] = (acc[year] || 0) + Number.parseFloat(d.OBS_VALUE_sum || "0")
-      return acc
-    }, {})
-
-    return Object.entries(yearTotals)
-      .map(([year, total]) => ({ year, patents: total }))
-      .sort((a, b) => Number.parseInt(a.year) - Number.parseInt(b.year))
-  }
 
   const getTechnologyDistribution = () => {
     if (!filteredData.technology) return []
 
-    const techTotals = filteredData.technology.reduce((acc: any, d: TechnologyData) => {
+    const techTotals = filteredData.technology.reduce((acc: TechTotals, d: TechnologyData) => {
       const tech = d["Selected OECD technology domains"]
       if (tech) {
         acc[tech] = (acc[tech] || 0) + Number.parseFloat(d.OBS_VALUE_sum || "0")
@@ -265,7 +280,7 @@ export default function OECDPatentDashboard() {
   const getAuthorityData = () => {
     if (!filteredData.authority) return []
 
-    const authorityTotals = filteredData.authority.reduce((acc: any, d: AuthorityData) => {
+    const authorityTotals = filteredData.authority.reduce((acc: AuthorityTotals, d: AuthorityData) => {
       acc[d.PATENT_AUTHORITIES] = (acc[d.PATENT_AUTHORITIES] || 0) + Number.parseFloat(d.OBS_VALUE_sum || "0")
       return acc
     }, {})
@@ -279,7 +294,7 @@ export default function OECDPatentDashboard() {
   const getTopCountriesForTrends = () => {
     if (!filteredData.countryYear) return []
 
-    const countryTotals = filteredData.countryYear.reduce((acc: any, d: CountryYearData) => {
+    const countryTotals = filteredData.countryYear.reduce((acc: CountryTotals, d: CountryYearData) => {
       acc[d.COUNTRY_NAME] = (acc[d.COUNTRY_NAME] || 0) + Number.parseFloat(d.OBS_VALUE_sum || "0")
       return acc
     }, {})
@@ -294,7 +309,7 @@ export default function OECDPatentDashboard() {
     if (!filteredData.countryYear) return []
 
     const topCountries = getTopCountriesForTrends()
-    const yearData: any = {}
+    const yearData: YearData = {}
 
     filteredData.countryYear.forEach((d: CountryYearData) => {
       const year = d.YEAR
@@ -305,11 +320,12 @@ export default function OECDPatentDashboard() {
         })
       }
       if (topCountries.includes(d.COUNTRY_NAME)) {
-        yearData[year][d.COUNTRY_NAME] += Number.parseFloat(d.OBS_VALUE_sum || "0")
+        const currentValue = yearData[year][d.COUNTRY_NAME] as number
+        yearData[year][d.COUNTRY_NAME] = currentValue + Number.parseFloat(d.OBS_VALUE_sum || "0")
       }
     })
 
-    return Object.values(yearData).sort((a: any, b: any) => Number.parseInt(a.year) - Number.parseInt(b.year))
+    return Object.values(yearData).sort((a, b) => Number.parseInt(a.year.toString()) - Number.parseInt(b.year.toString()))
   }
 
   if (loading) {
