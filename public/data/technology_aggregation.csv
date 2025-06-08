@@ -1,0 +1,1665 @@
+WIPO,OECD_TECHNOLOGY_PATENT,Selected OECD technology domains,COUNTRY_NAME,OBS_VALUE_sum,OBS_VALUE_mean,YEAR_min,YEAR_max,YEAR_count
+_Z,BIOTECH,Biotechnology,AND,3.0,0.12,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ARE,66.11,2.54,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ARG,137.7,5.3,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ARM,11.78,0.45,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Australia,2659.89,102.3,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Austria,1321.51,50.83,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,BGR,32.72,1.26,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,BIH,1.75,0.07,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,BLR,1.08,0.04,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,BMU,2.67,0.1,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Belgium,2673.15,102.81,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Brazil,597.91,23.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,CHL,283.21,10.89,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,COL,83.87,3.23,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,CRI,11.38,0.44,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,CUB,108.39,4.17,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,CYM,9.64,0.37,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,CYP,65.59,2.52,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Canada,4593.12,176.66,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,China,23652.23,909.7,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Czech Republic,220.54,8.48,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,DJI,0.0,0.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,DZA,4.0,0.15,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Denmark,2873.52,110.52,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ECU,1.24,0.05,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,EGY,52.11,2.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Estonia,80.88,3.11,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,European Union (27),44126.98,1697.19,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Finland,763.87,29.38,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,France,8515.77,327.53,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,GEO,12.17,0.47,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,GTM,1.11,0.04,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Germany,13368.0,514.15,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Greece,111.58,4.29,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,HRV,31.02,1.19,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Hong Kong,433.71,16.68,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Hungary,203.66,7.83,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,IRN,128.69,4.95,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ISL,45.05,1.73,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,India,1994.9,76.73,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Indonesia,7.58,0.29,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Ireland,600.6,23.1,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Israel,3626.55,139.48,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Italy,3086.45,118.71,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,JAM,0.0,0.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,JOR,12.0,0.46,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Japan,23552.38,905.86,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,KAZ,13.75,0.53,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,KEN,4.4,0.17,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,KWT,17.0,0.65,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,LBN,11.11,0.43,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,LIE,0.89,0.03,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,LKA,12.15,0.47,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,LUX,70.85,2.72,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Latvia,32.79,1.26,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Lithuania,104.65,4.03,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,MAR,11.86,0.46,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,MCO,10.22,0.39,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,MDA,6.73,0.26,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,MKD,0.12,0.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,MLT,11.0,0.42,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,MNG,4.3,0.17,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Malaysia,113.85,4.38,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Mexico,209.34,8.05,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,NGA,1.92,0.07,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,NZL,311.91,12.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Netherlands,4058.19,156.08,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Norway,520.25,20.01,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,OECD Total,224215.35,8623.67,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,PAK,24.48,0.94,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,PAN,19.32,0.74,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,PER,8.8,0.34,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,PRI,2.92,0.11,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,PRK,5.48,0.21,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Philippines,14.52,0.56,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Poland,461.6,17.75,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Portugal,328.27,12.63,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ROU,27.66,1.06,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Russia,737.69,28.37,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,SAU,264.65,10.18,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,SLV,0.0,0.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,SYC,0.0,0.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Singapore,1550.81,59.65,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Slovakia,77.33,2.97,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Slovenia,141.35,5.44,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,South Africa,173.91,6.69,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,South Korea,14116.17,542.93,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Spain,2547.8,97.99,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Sweden,2316.63,89.1,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Switzerland,4610.1,177.31,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,TTO,0.0,0.0,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,TUN,7.28,0.28,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Taiwan,3027.84,116.46,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Thailand,79.7,3.07,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,Turkey,553.83,21.3,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,UKR,48.98,1.88,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,URY,15.58,0.6,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,UZB,2.0,0.08,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,United Kingdom,9815.32,377.51,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,United States,115263.98,4433.23,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,VEN,1.67,0.06,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,World Total,258157.0,9929.12,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,YUG_F,0.58,0.02,2017.0,2020.0,26
+_Z,BIOTECH,Biotechnology,ZWE,1.0,0.04,2017.0,2020.0,26
+_Z,BIOTECH,Nanotechnology,AND,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ARE,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ARG,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ARM,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Australia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Austria,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,BGR,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,BIH,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,BLR,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,BMU,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Belgium,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Brazil,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,CHL,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,COL,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,CRI,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,CUB,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,CYM,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,CYP,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Canada,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,China,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Czech Republic,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,DJI,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,DZA,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Denmark,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ECU,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,EGY,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Estonia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,European Union (27),0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Finland,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,France,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,GEO,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,GTM,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Germany,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Greece,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,HRV,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Hong Kong,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Hungary,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,IRN,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ISL,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,India,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Indonesia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Ireland,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Israel,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Italy,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,JAM,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,JOR,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Japan,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,KAZ,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,KEN,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,KWT,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,LBN,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,LIE,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,LKA,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,LUX,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Latvia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Lithuania,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,MAR,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,MCO,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,MDA,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,MKD,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,MLT,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,MNG,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Malaysia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Mexico,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,NGA,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,NZL,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Netherlands,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Norway,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,OECD Total,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,PAK,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,PAN,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,PER,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,PRI,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,PRK,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Philippines,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Poland,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Portugal,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ROU,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Russia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,SAU,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,SLV,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,SYC,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Singapore,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Slovakia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Slovenia,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,South Africa,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,South Korea,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Spain,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Sweden,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Switzerland,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,TTO,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,TUN,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Taiwan,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Thailand,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,Turkey,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,UKR,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,URY,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,UZB,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,United Kingdom,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,United States,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,VEN,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,World Total,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,YUG_F,0.0,,,,0
+_Z,BIOTECH,Nanotechnology,ZWE,0.0,,,,0
+_Z,BIOTECH,Nowcasts,AND,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ARE,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ARG,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ARM,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Australia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Austria,0.0,,,,0
+_Z,BIOTECH,Nowcasts,BGR,0.0,,,,0
+_Z,BIOTECH,Nowcasts,BIH,0.0,,,,0
+_Z,BIOTECH,Nowcasts,BLR,0.0,,,,0
+_Z,BIOTECH,Nowcasts,BMU,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Belgium,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Brazil,0.0,,,,0
+_Z,BIOTECH,Nowcasts,CHL,0.0,,,,0
+_Z,BIOTECH,Nowcasts,COL,0.0,,,,0
+_Z,BIOTECH,Nowcasts,CRI,0.0,,,,0
+_Z,BIOTECH,Nowcasts,CUB,0.0,,,,0
+_Z,BIOTECH,Nowcasts,CYM,0.0,,,,0
+_Z,BIOTECH,Nowcasts,CYP,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Canada,0.0,,,,0
+_Z,BIOTECH,Nowcasts,China,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Czech Republic,0.0,,,,0
+_Z,BIOTECH,Nowcasts,DJI,0.0,,,,0
+_Z,BIOTECH,Nowcasts,DZA,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Denmark,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ECU,0.0,,,,0
+_Z,BIOTECH,Nowcasts,EGY,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Estonia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,European Union (27),0.0,,,,0
+_Z,BIOTECH,Nowcasts,Finland,0.0,,,,0
+_Z,BIOTECH,Nowcasts,France,0.0,,,,0
+_Z,BIOTECH,Nowcasts,GEO,0.0,,,,0
+_Z,BIOTECH,Nowcasts,GTM,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Germany,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Greece,0.0,,,,0
+_Z,BIOTECH,Nowcasts,HRV,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Hong Kong,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Hungary,0.0,,,,0
+_Z,BIOTECH,Nowcasts,IRN,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ISL,0.0,,,,0
+_Z,BIOTECH,Nowcasts,India,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Indonesia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Ireland,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Israel,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Italy,0.0,,,,0
+_Z,BIOTECH,Nowcasts,JAM,0.0,,,,0
+_Z,BIOTECH,Nowcasts,JOR,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Japan,0.0,,,,0
+_Z,BIOTECH,Nowcasts,KAZ,0.0,,,,0
+_Z,BIOTECH,Nowcasts,KEN,0.0,,,,0
+_Z,BIOTECH,Nowcasts,KWT,0.0,,,,0
+_Z,BIOTECH,Nowcasts,LBN,0.0,,,,0
+_Z,BIOTECH,Nowcasts,LIE,0.0,,,,0
+_Z,BIOTECH,Nowcasts,LKA,0.0,,,,0
+_Z,BIOTECH,Nowcasts,LUX,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Latvia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Lithuania,0.0,,,,0
+_Z,BIOTECH,Nowcasts,MAR,0.0,,,,0
+_Z,BIOTECH,Nowcasts,MCO,0.0,,,,0
+_Z,BIOTECH,Nowcasts,MDA,0.0,,,,0
+_Z,BIOTECH,Nowcasts,MKD,0.0,,,,0
+_Z,BIOTECH,Nowcasts,MLT,0.0,,,,0
+_Z,BIOTECH,Nowcasts,MNG,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Malaysia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Mexico,0.0,,,,0
+_Z,BIOTECH,Nowcasts,NGA,0.0,,,,0
+_Z,BIOTECH,Nowcasts,NZL,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Netherlands,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Norway,0.0,,,,0
+_Z,BIOTECH,Nowcasts,OECD Total,0.0,,,,0
+_Z,BIOTECH,Nowcasts,PAK,0.0,,,,0
+_Z,BIOTECH,Nowcasts,PAN,0.0,,,,0
+_Z,BIOTECH,Nowcasts,PER,0.0,,,,0
+_Z,BIOTECH,Nowcasts,PRI,0.0,,,,0
+_Z,BIOTECH,Nowcasts,PRK,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Philippines,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Poland,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Portugal,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ROU,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Russia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,SAU,0.0,,,,0
+_Z,BIOTECH,Nowcasts,SLV,0.0,,,,0
+_Z,BIOTECH,Nowcasts,SYC,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Singapore,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Slovakia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Slovenia,0.0,,,,0
+_Z,BIOTECH,Nowcasts,South Africa,0.0,,,,0
+_Z,BIOTECH,Nowcasts,South Korea,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Spain,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Sweden,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Switzerland,0.0,,,,0
+_Z,BIOTECH,Nowcasts,TTO,0.0,,,,0
+_Z,BIOTECH,Nowcasts,TUN,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Taiwan,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Thailand,0.0,,,,0
+_Z,BIOTECH,Nowcasts,Turkey,0.0,,,,0
+_Z,BIOTECH,Nowcasts,UKR,0.0,,,,0
+_Z,BIOTECH,Nowcasts,URY,0.0,,,,0
+_Z,BIOTECH,Nowcasts,UZB,0.0,,,,0
+_Z,BIOTECH,Nowcasts,United Kingdom,0.0,,,,0
+_Z,BIOTECH,Nowcasts,United States,0.0,,,,0
+_Z,BIOTECH,Nowcasts,VEN,0.0,,,,0
+_Z,BIOTECH,Nowcasts,World Total,0.0,,,,0
+_Z,BIOTECH,Nowcasts,YUG_F,0.0,,,,0
+_Z,BIOTECH,Nowcasts,ZWE,0.0,,,,0
+_Z,BIOTECH,Total patents,AND,0.0,,,,0
+_Z,BIOTECH,Total patents,ARE,0.0,,,,0
+_Z,BIOTECH,Total patents,ARG,0.0,,,,0
+_Z,BIOTECH,Total patents,ARM,0.0,,,,0
+_Z,BIOTECH,Total patents,Australia,0.0,,,,0
+_Z,BIOTECH,Total patents,Austria,0.0,,,,0
+_Z,BIOTECH,Total patents,BGR,0.0,,,,0
+_Z,BIOTECH,Total patents,BIH,0.0,,,,0
+_Z,BIOTECH,Total patents,BLR,0.0,,,,0
+_Z,BIOTECH,Total patents,BMU,0.0,,,,0
+_Z,BIOTECH,Total patents,Belgium,0.0,,,,0
+_Z,BIOTECH,Total patents,Brazil,0.0,,,,0
+_Z,BIOTECH,Total patents,CHL,0.0,,,,0
+_Z,BIOTECH,Total patents,COL,0.0,,,,0
+_Z,BIOTECH,Total patents,CRI,0.0,,,,0
+_Z,BIOTECH,Total patents,CUB,0.0,,,,0
+_Z,BIOTECH,Total patents,CYM,0.0,,,,0
+_Z,BIOTECH,Total patents,CYP,0.0,,,,0
+_Z,BIOTECH,Total patents,Canada,0.0,,,,0
+_Z,BIOTECH,Total patents,China,0.0,,,,0
+_Z,BIOTECH,Total patents,Czech Republic,0.0,,,,0
+_Z,BIOTECH,Total patents,DJI,0.0,,,,0
+_Z,BIOTECH,Total patents,DZA,0.0,,,,0
+_Z,BIOTECH,Total patents,Denmark,0.0,,,,0
+_Z,BIOTECH,Total patents,ECU,0.0,,,,0
+_Z,BIOTECH,Total patents,EGY,0.0,,,,0
+_Z,BIOTECH,Total patents,Estonia,0.0,,,,0
+_Z,BIOTECH,Total patents,European Union (27),0.0,,,,0
+_Z,BIOTECH,Total patents,Finland,0.0,,,,0
+_Z,BIOTECH,Total patents,France,0.0,,,,0
+_Z,BIOTECH,Total patents,GEO,0.0,,,,0
+_Z,BIOTECH,Total patents,GTM,0.0,,,,0
+_Z,BIOTECH,Total patents,Germany,0.0,,,,0
+_Z,BIOTECH,Total patents,Greece,0.0,,,,0
+_Z,BIOTECH,Total patents,HRV,0.0,,,,0
+_Z,BIOTECH,Total patents,Hong Kong,0.0,,,,0
+_Z,BIOTECH,Total patents,Hungary,0.0,,,,0
+_Z,BIOTECH,Total patents,IRN,0.0,,,,0
+_Z,BIOTECH,Total patents,ISL,0.0,,,,0
+_Z,BIOTECH,Total patents,India,0.0,,,,0
+_Z,BIOTECH,Total patents,Indonesia,0.0,,,,0
+_Z,BIOTECH,Total patents,Ireland,0.0,,,,0
+_Z,BIOTECH,Total patents,Israel,0.0,,,,0
+_Z,BIOTECH,Total patents,Italy,0.0,,,,0
+_Z,BIOTECH,Total patents,JAM,0.0,,,,0
+_Z,BIOTECH,Total patents,JOR,0.0,,,,0
+_Z,BIOTECH,Total patents,Japan,0.0,,,,0
+_Z,BIOTECH,Total patents,KAZ,0.0,,,,0
+_Z,BIOTECH,Total patents,KEN,0.0,,,,0
+_Z,BIOTECH,Total patents,KWT,0.0,,,,0
+_Z,BIOTECH,Total patents,LBN,0.0,,,,0
+_Z,BIOTECH,Total patents,LIE,0.0,,,,0
+_Z,BIOTECH,Total patents,LKA,0.0,,,,0
+_Z,BIOTECH,Total patents,LUX,0.0,,,,0
+_Z,BIOTECH,Total patents,Latvia,0.0,,,,0
+_Z,BIOTECH,Total patents,Lithuania,0.0,,,,0
+_Z,BIOTECH,Total patents,MAR,0.0,,,,0
+_Z,BIOTECH,Total patents,MCO,0.0,,,,0
+_Z,BIOTECH,Total patents,MDA,0.0,,,,0
+_Z,BIOTECH,Total patents,MKD,0.0,,,,0
+_Z,BIOTECH,Total patents,MLT,0.0,,,,0
+_Z,BIOTECH,Total patents,MNG,0.0,,,,0
+_Z,BIOTECH,Total patents,Malaysia,0.0,,,,0
+_Z,BIOTECH,Total patents,Mexico,0.0,,,,0
+_Z,BIOTECH,Total patents,NGA,0.0,,,,0
+_Z,BIOTECH,Total patents,NZL,0.0,,,,0
+_Z,BIOTECH,Total patents,Netherlands,0.0,,,,0
+_Z,BIOTECH,Total patents,Norway,0.0,,,,0
+_Z,BIOTECH,Total patents,OECD Total,0.0,,,,0
+_Z,BIOTECH,Total patents,PAK,0.0,,,,0
+_Z,BIOTECH,Total patents,PAN,0.0,,,,0
+_Z,BIOTECH,Total patents,PER,0.0,,,,0
+_Z,BIOTECH,Total patents,PRI,0.0,,,,0
+_Z,BIOTECH,Total patents,PRK,0.0,,,,0
+_Z,BIOTECH,Total patents,Philippines,0.0,,,,0
+_Z,BIOTECH,Total patents,Poland,0.0,,,,0
+_Z,BIOTECH,Total patents,Portugal,0.0,,,,0
+_Z,BIOTECH,Total patents,ROU,0.0,,,,0
+_Z,BIOTECH,Total patents,Russia,0.0,,,,0
+_Z,BIOTECH,Total patents,SAU,0.0,,,,0
+_Z,BIOTECH,Total patents,SLV,0.0,,,,0
+_Z,BIOTECH,Total patents,SYC,0.0,,,,0
+_Z,BIOTECH,Total patents,Singapore,0.0,,,,0
+_Z,BIOTECH,Total patents,Slovakia,0.0,,,,0
+_Z,BIOTECH,Total patents,Slovenia,0.0,,,,0
+_Z,BIOTECH,Total patents,South Africa,0.0,,,,0
+_Z,BIOTECH,Total patents,South Korea,0.0,,,,0
+_Z,BIOTECH,Total patents,Spain,0.0,,,,0
+_Z,BIOTECH,Total patents,Sweden,0.0,,,,0
+_Z,BIOTECH,Total patents,Switzerland,0.0,,,,0
+_Z,BIOTECH,Total patents,TTO,0.0,,,,0
+_Z,BIOTECH,Total patents,TUN,0.0,,,,0
+_Z,BIOTECH,Total patents,Taiwan,0.0,,,,0
+_Z,BIOTECH,Total patents,Thailand,0.0,,,,0
+_Z,BIOTECH,Total patents,Turkey,0.0,,,,0
+_Z,BIOTECH,Total patents,UKR,0.0,,,,0
+_Z,BIOTECH,Total patents,URY,0.0,,,,0
+_Z,BIOTECH,Total patents,UZB,0.0,,,,0
+_Z,BIOTECH,Total patents,United Kingdom,0.0,,,,0
+_Z,BIOTECH,Total patents,United States,0.0,,,,0
+_Z,BIOTECH,Total patents,VEN,0.0,,,,0
+_Z,BIOTECH,Total patents,World Total,0.0,,,,0
+_Z,BIOTECH,Total patents,YUG_F,0.0,,,,0
+_Z,BIOTECH,Total patents,ZWE,0.0,,,,0
+_Z,NANOTECH,Biotechnology,AND,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ARE,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ARG,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ARM,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Australia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Austria,0.0,,,,0
+_Z,NANOTECH,Biotechnology,BGR,0.0,,,,0
+_Z,NANOTECH,Biotechnology,BIH,0.0,,,,0
+_Z,NANOTECH,Biotechnology,BLR,0.0,,,,0
+_Z,NANOTECH,Biotechnology,BMU,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Belgium,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Brazil,0.0,,,,0
+_Z,NANOTECH,Biotechnology,CHL,0.0,,,,0
+_Z,NANOTECH,Biotechnology,COL,0.0,,,,0
+_Z,NANOTECH,Biotechnology,CRI,0.0,,,,0
+_Z,NANOTECH,Biotechnology,CUB,0.0,,,,0
+_Z,NANOTECH,Biotechnology,CYM,0.0,,,,0
+_Z,NANOTECH,Biotechnology,CYP,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Canada,0.0,,,,0
+_Z,NANOTECH,Biotechnology,China,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Czech Republic,0.0,,,,0
+_Z,NANOTECH,Biotechnology,DJI,0.0,,,,0
+_Z,NANOTECH,Biotechnology,DZA,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Denmark,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ECU,0.0,,,,0
+_Z,NANOTECH,Biotechnology,EGY,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Estonia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,European Union (27),0.0,,,,0
+_Z,NANOTECH,Biotechnology,Finland,0.0,,,,0
+_Z,NANOTECH,Biotechnology,France,0.0,,,,0
+_Z,NANOTECH,Biotechnology,GEO,0.0,,,,0
+_Z,NANOTECH,Biotechnology,GTM,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Germany,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Greece,0.0,,,,0
+_Z,NANOTECH,Biotechnology,HRV,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Hong Kong,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Hungary,0.0,,,,0
+_Z,NANOTECH,Biotechnology,IRN,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ISL,0.0,,,,0
+_Z,NANOTECH,Biotechnology,India,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Indonesia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Ireland,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Israel,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Italy,0.0,,,,0
+_Z,NANOTECH,Biotechnology,JAM,0.0,,,,0
+_Z,NANOTECH,Biotechnology,JOR,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Japan,0.0,,,,0
+_Z,NANOTECH,Biotechnology,KAZ,0.0,,,,0
+_Z,NANOTECH,Biotechnology,KEN,0.0,,,,0
+_Z,NANOTECH,Biotechnology,KWT,0.0,,,,0
+_Z,NANOTECH,Biotechnology,LBN,0.0,,,,0
+_Z,NANOTECH,Biotechnology,LIE,0.0,,,,0
+_Z,NANOTECH,Biotechnology,LKA,0.0,,,,0
+_Z,NANOTECH,Biotechnology,LUX,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Latvia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Lithuania,0.0,,,,0
+_Z,NANOTECH,Biotechnology,MAR,0.0,,,,0
+_Z,NANOTECH,Biotechnology,MCO,0.0,,,,0
+_Z,NANOTECH,Biotechnology,MDA,0.0,,,,0
+_Z,NANOTECH,Biotechnology,MKD,0.0,,,,0
+_Z,NANOTECH,Biotechnology,MLT,0.0,,,,0
+_Z,NANOTECH,Biotechnology,MNG,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Malaysia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Mexico,0.0,,,,0
+_Z,NANOTECH,Biotechnology,NGA,0.0,,,,0
+_Z,NANOTECH,Biotechnology,NZL,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Netherlands,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Norway,0.0,,,,0
+_Z,NANOTECH,Biotechnology,OECD Total,0.0,,,,0
+_Z,NANOTECH,Biotechnology,PAK,0.0,,,,0
+_Z,NANOTECH,Biotechnology,PAN,0.0,,,,0
+_Z,NANOTECH,Biotechnology,PER,0.0,,,,0
+_Z,NANOTECH,Biotechnology,PRI,0.0,,,,0
+_Z,NANOTECH,Biotechnology,PRK,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Philippines,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Poland,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Portugal,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ROU,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Russia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,SAU,0.0,,,,0
+_Z,NANOTECH,Biotechnology,SLV,0.0,,,,0
+_Z,NANOTECH,Biotechnology,SYC,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Singapore,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Slovakia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Slovenia,0.0,,,,0
+_Z,NANOTECH,Biotechnology,South Africa,0.0,,,,0
+_Z,NANOTECH,Biotechnology,South Korea,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Spain,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Sweden,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Switzerland,0.0,,,,0
+_Z,NANOTECH,Biotechnology,TTO,0.0,,,,0
+_Z,NANOTECH,Biotechnology,TUN,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Taiwan,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Thailand,0.0,,,,0
+_Z,NANOTECH,Biotechnology,Turkey,0.0,,,,0
+_Z,NANOTECH,Biotechnology,UKR,0.0,,,,0
+_Z,NANOTECH,Biotechnology,URY,0.0,,,,0
+_Z,NANOTECH,Biotechnology,UZB,0.0,,,,0
+_Z,NANOTECH,Biotechnology,United Kingdom,0.0,,,,0
+_Z,NANOTECH,Biotechnology,United States,0.0,,,,0
+_Z,NANOTECH,Biotechnology,VEN,0.0,,,,0
+_Z,NANOTECH,Biotechnology,World Total,0.0,,,,0
+_Z,NANOTECH,Biotechnology,YUG_F,0.0,,,,0
+_Z,NANOTECH,Biotechnology,ZWE,0.0,,,,0
+_Z,NANOTECH,Nanotechnology,AND,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ARE,26.5,1.02,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ARG,14.88,0.57,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ARM,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Australia,356.91,13.73,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Austria,77.07,2.96,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,BGR,12.3,0.47,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,BIH,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,BLR,0.71,0.03,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,BMU,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Belgium,395.49,15.21,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Brazil,74.65,2.87,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,CHL,46.17,1.78,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,COL,19.17,0.74,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,CRI,6.0,0.23,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,CUB,5.0,0.19,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,CYM,0.25,0.01,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,CYP,2.25,0.09,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Canada,669.77,25.76,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,China,3285.63,126.37,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Czech Republic,41.7,1.6,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,DJI,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,DZA,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Denmark,75.58,2.91,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ECU,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,EGY,14.01,0.54,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Estonia,1.0,0.04,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,European Union (27),3705.02,142.5,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Finland,237.83,9.15,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,France,847.96,32.61,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,GEO,1.0,0.04,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,GTM,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Germany,695.84,26.76,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Greece,1.75,0.07,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,HRV,8.0,0.31,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Hong Kong,50.22,1.93,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Hungary,3.0,0.12,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,IRN,55.29,2.13,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ISL,1.42,0.05,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,India,246.19,9.47,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Indonesia,0.75,0.03,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Ireland,36.17,1.39,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Israel,422.43,16.25,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Italy,266.09,10.23,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,JAM,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,JOR,5.58,0.21,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Japan,3516.88,135.26,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,KAZ,2.0,0.08,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,KEN,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,KWT,2.0,0.08,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,LBN,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,LIE,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,LKA,0.71,0.03,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,LUX,19.2,0.74,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Latvia,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Lithuania,2.0,0.08,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,MAR,0.5,0.02,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,MCO,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,MDA,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,MKD,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,MLT,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,MNG,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Malaysia,20.37,0.78,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Mexico,41.17,1.58,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,NGA,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,NZL,29.79,1.15,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Netherlands,252.92,9.73,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Norway,32.02,1.23,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,OECD Total,23926.26,920.24,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,PAK,2.0,0.08,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,PAN,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,PER,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,PRI,2.0,0.08,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,PRK,0.08,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Philippines,6.0,0.23,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Poland,60.58,2.33,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Portugal,20.71,0.8,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ROU,1.25,0.05,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Russia,143.49,5.52,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,SAU,268.57,10.33,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,SLV,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,SYC,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Singapore,230.55,8.87,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Slovakia,3.62,0.14,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Slovenia,17.6,0.68,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,South Africa,26.0,1.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,South Korea,3087.24,118.74,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Spain,363.84,13.99,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Sweden,261.28,10.05,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Switzerland,237.11,9.12,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,TTO,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,TUN,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Taiwan,1860.75,71.57,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Thailand,20.85,0.8,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,Turkey,105.9,4.07,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,UKR,20.69,0.8,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,URY,5.0,0.19,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,UZB,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,United Kingdom,773.81,29.76,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,United States,10899.26,419.2,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,VEN,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,World Total,30437.0,1170.65,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,YUG_F,0.0,0.0,2017.0,2020.0,26
+_Z,NANOTECH,Nanotechnology,ZWE,0.53,0.02,2017.0,2020.0,26
+_Z,NANOTECH,Nowcasts,AND,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ARE,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ARG,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ARM,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Australia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Austria,0.0,,,,0
+_Z,NANOTECH,Nowcasts,BGR,0.0,,,,0
+_Z,NANOTECH,Nowcasts,BIH,0.0,,,,0
+_Z,NANOTECH,Nowcasts,BLR,0.0,,,,0
+_Z,NANOTECH,Nowcasts,BMU,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Belgium,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Brazil,0.0,,,,0
+_Z,NANOTECH,Nowcasts,CHL,0.0,,,,0
+_Z,NANOTECH,Nowcasts,COL,0.0,,,,0
+_Z,NANOTECH,Nowcasts,CRI,0.0,,,,0
+_Z,NANOTECH,Nowcasts,CUB,0.0,,,,0
+_Z,NANOTECH,Nowcasts,CYM,0.0,,,,0
+_Z,NANOTECH,Nowcasts,CYP,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Canada,0.0,,,,0
+_Z,NANOTECH,Nowcasts,China,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Czech Republic,0.0,,,,0
+_Z,NANOTECH,Nowcasts,DJI,0.0,,,,0
+_Z,NANOTECH,Nowcasts,DZA,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Denmark,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ECU,0.0,,,,0
+_Z,NANOTECH,Nowcasts,EGY,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Estonia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,European Union (27),0.0,,,,0
+_Z,NANOTECH,Nowcasts,Finland,0.0,,,,0
+_Z,NANOTECH,Nowcasts,France,0.0,,,,0
+_Z,NANOTECH,Nowcasts,GEO,0.0,,,,0
+_Z,NANOTECH,Nowcasts,GTM,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Germany,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Greece,0.0,,,,0
+_Z,NANOTECH,Nowcasts,HRV,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Hong Kong,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Hungary,0.0,,,,0
+_Z,NANOTECH,Nowcasts,IRN,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ISL,0.0,,,,0
+_Z,NANOTECH,Nowcasts,India,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Indonesia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Ireland,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Israel,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Italy,0.0,,,,0
+_Z,NANOTECH,Nowcasts,JAM,0.0,,,,0
+_Z,NANOTECH,Nowcasts,JOR,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Japan,0.0,,,,0
+_Z,NANOTECH,Nowcasts,KAZ,0.0,,,,0
+_Z,NANOTECH,Nowcasts,KEN,0.0,,,,0
+_Z,NANOTECH,Nowcasts,KWT,0.0,,,,0
+_Z,NANOTECH,Nowcasts,LBN,0.0,,,,0
+_Z,NANOTECH,Nowcasts,LIE,0.0,,,,0
+_Z,NANOTECH,Nowcasts,LKA,0.0,,,,0
+_Z,NANOTECH,Nowcasts,LUX,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Latvia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Lithuania,0.0,,,,0
+_Z,NANOTECH,Nowcasts,MAR,0.0,,,,0
+_Z,NANOTECH,Nowcasts,MCO,0.0,,,,0
+_Z,NANOTECH,Nowcasts,MDA,0.0,,,,0
+_Z,NANOTECH,Nowcasts,MKD,0.0,,,,0
+_Z,NANOTECH,Nowcasts,MLT,0.0,,,,0
+_Z,NANOTECH,Nowcasts,MNG,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Malaysia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Mexico,0.0,,,,0
+_Z,NANOTECH,Nowcasts,NGA,0.0,,,,0
+_Z,NANOTECH,Nowcasts,NZL,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Netherlands,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Norway,0.0,,,,0
+_Z,NANOTECH,Nowcasts,OECD Total,0.0,,,,0
+_Z,NANOTECH,Nowcasts,PAK,0.0,,,,0
+_Z,NANOTECH,Nowcasts,PAN,0.0,,,,0
+_Z,NANOTECH,Nowcasts,PER,0.0,,,,0
+_Z,NANOTECH,Nowcasts,PRI,0.0,,,,0
+_Z,NANOTECH,Nowcasts,PRK,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Philippines,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Poland,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Portugal,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ROU,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Russia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,SAU,0.0,,,,0
+_Z,NANOTECH,Nowcasts,SLV,0.0,,,,0
+_Z,NANOTECH,Nowcasts,SYC,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Singapore,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Slovakia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Slovenia,0.0,,,,0
+_Z,NANOTECH,Nowcasts,South Africa,0.0,,,,0
+_Z,NANOTECH,Nowcasts,South Korea,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Spain,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Sweden,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Switzerland,0.0,,,,0
+_Z,NANOTECH,Nowcasts,TTO,0.0,,,,0
+_Z,NANOTECH,Nowcasts,TUN,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Taiwan,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Thailand,0.0,,,,0
+_Z,NANOTECH,Nowcasts,Turkey,0.0,,,,0
+_Z,NANOTECH,Nowcasts,UKR,0.0,,,,0
+_Z,NANOTECH,Nowcasts,URY,0.0,,,,0
+_Z,NANOTECH,Nowcasts,UZB,0.0,,,,0
+_Z,NANOTECH,Nowcasts,United Kingdom,0.0,,,,0
+_Z,NANOTECH,Nowcasts,United States,0.0,,,,0
+_Z,NANOTECH,Nowcasts,VEN,0.0,,,,0
+_Z,NANOTECH,Nowcasts,World Total,0.0,,,,0
+_Z,NANOTECH,Nowcasts,YUG_F,0.0,,,,0
+_Z,NANOTECH,Nowcasts,ZWE,0.0,,,,0
+_Z,NANOTECH,Total patents,AND,0.0,,,,0
+_Z,NANOTECH,Total patents,ARE,0.0,,,,0
+_Z,NANOTECH,Total patents,ARG,0.0,,,,0
+_Z,NANOTECH,Total patents,ARM,0.0,,,,0
+_Z,NANOTECH,Total patents,Australia,0.0,,,,0
+_Z,NANOTECH,Total patents,Austria,0.0,,,,0
+_Z,NANOTECH,Total patents,BGR,0.0,,,,0
+_Z,NANOTECH,Total patents,BIH,0.0,,,,0
+_Z,NANOTECH,Total patents,BLR,0.0,,,,0
+_Z,NANOTECH,Total patents,BMU,0.0,,,,0
+_Z,NANOTECH,Total patents,Belgium,0.0,,,,0
+_Z,NANOTECH,Total patents,Brazil,0.0,,,,0
+_Z,NANOTECH,Total patents,CHL,0.0,,,,0
+_Z,NANOTECH,Total patents,COL,0.0,,,,0
+_Z,NANOTECH,Total patents,CRI,0.0,,,,0
+_Z,NANOTECH,Total patents,CUB,0.0,,,,0
+_Z,NANOTECH,Total patents,CYM,0.0,,,,0
+_Z,NANOTECH,Total patents,CYP,0.0,,,,0
+_Z,NANOTECH,Total patents,Canada,0.0,,,,0
+_Z,NANOTECH,Total patents,China,0.0,,,,0
+_Z,NANOTECH,Total patents,Czech Republic,0.0,,,,0
+_Z,NANOTECH,Total patents,DJI,0.0,,,,0
+_Z,NANOTECH,Total patents,DZA,0.0,,,,0
+_Z,NANOTECH,Total patents,Denmark,0.0,,,,0
+_Z,NANOTECH,Total patents,ECU,0.0,,,,0
+_Z,NANOTECH,Total patents,EGY,0.0,,,,0
+_Z,NANOTECH,Total patents,Estonia,0.0,,,,0
+_Z,NANOTECH,Total patents,European Union (27),0.0,,,,0
+_Z,NANOTECH,Total patents,Finland,0.0,,,,0
+_Z,NANOTECH,Total patents,France,0.0,,,,0
+_Z,NANOTECH,Total patents,GEO,0.0,,,,0
+_Z,NANOTECH,Total patents,GTM,0.0,,,,0
+_Z,NANOTECH,Total patents,Germany,0.0,,,,0
+_Z,NANOTECH,Total patents,Greece,0.0,,,,0
+_Z,NANOTECH,Total patents,HRV,0.0,,,,0
+_Z,NANOTECH,Total patents,Hong Kong,0.0,,,,0
+_Z,NANOTECH,Total patents,Hungary,0.0,,,,0
+_Z,NANOTECH,Total patents,IRN,0.0,,,,0
+_Z,NANOTECH,Total patents,ISL,0.0,,,,0
+_Z,NANOTECH,Total patents,India,0.0,,,,0
+_Z,NANOTECH,Total patents,Indonesia,0.0,,,,0
+_Z,NANOTECH,Total patents,Ireland,0.0,,,,0
+_Z,NANOTECH,Total patents,Israel,0.0,,,,0
+_Z,NANOTECH,Total patents,Italy,0.0,,,,0
+_Z,NANOTECH,Total patents,JAM,0.0,,,,0
+_Z,NANOTECH,Total patents,JOR,0.0,,,,0
+_Z,NANOTECH,Total patents,Japan,0.0,,,,0
+_Z,NANOTECH,Total patents,KAZ,0.0,,,,0
+_Z,NANOTECH,Total patents,KEN,0.0,,,,0
+_Z,NANOTECH,Total patents,KWT,0.0,,,,0
+_Z,NANOTECH,Total patents,LBN,0.0,,,,0
+_Z,NANOTECH,Total patents,LIE,0.0,,,,0
+_Z,NANOTECH,Total patents,LKA,0.0,,,,0
+_Z,NANOTECH,Total patents,LUX,0.0,,,,0
+_Z,NANOTECH,Total patents,Latvia,0.0,,,,0
+_Z,NANOTECH,Total patents,Lithuania,0.0,,,,0
+_Z,NANOTECH,Total patents,MAR,0.0,,,,0
+_Z,NANOTECH,Total patents,MCO,0.0,,,,0
+_Z,NANOTECH,Total patents,MDA,0.0,,,,0
+_Z,NANOTECH,Total patents,MKD,0.0,,,,0
+_Z,NANOTECH,Total patents,MLT,0.0,,,,0
+_Z,NANOTECH,Total patents,MNG,0.0,,,,0
+_Z,NANOTECH,Total patents,Malaysia,0.0,,,,0
+_Z,NANOTECH,Total patents,Mexico,0.0,,,,0
+_Z,NANOTECH,Total patents,NGA,0.0,,,,0
+_Z,NANOTECH,Total patents,NZL,0.0,,,,0
+_Z,NANOTECH,Total patents,Netherlands,0.0,,,,0
+_Z,NANOTECH,Total patents,Norway,0.0,,,,0
+_Z,NANOTECH,Total patents,OECD Total,0.0,,,,0
+_Z,NANOTECH,Total patents,PAK,0.0,,,,0
+_Z,NANOTECH,Total patents,PAN,0.0,,,,0
+_Z,NANOTECH,Total patents,PER,0.0,,,,0
+_Z,NANOTECH,Total patents,PRI,0.0,,,,0
+_Z,NANOTECH,Total patents,PRK,0.0,,,,0
+_Z,NANOTECH,Total patents,Philippines,0.0,,,,0
+_Z,NANOTECH,Total patents,Poland,0.0,,,,0
+_Z,NANOTECH,Total patents,Portugal,0.0,,,,0
+_Z,NANOTECH,Total patents,ROU,0.0,,,,0
+_Z,NANOTECH,Total patents,Russia,0.0,,,,0
+_Z,NANOTECH,Total patents,SAU,0.0,,,,0
+_Z,NANOTECH,Total patents,SLV,0.0,,,,0
+_Z,NANOTECH,Total patents,SYC,0.0,,,,0
+_Z,NANOTECH,Total patents,Singapore,0.0,,,,0
+_Z,NANOTECH,Total patents,Slovakia,0.0,,,,0
+_Z,NANOTECH,Total patents,Slovenia,0.0,,,,0
+_Z,NANOTECH,Total patents,South Africa,0.0,,,,0
+_Z,NANOTECH,Total patents,South Korea,0.0,,,,0
+_Z,NANOTECH,Total patents,Spain,0.0,,,,0
+_Z,NANOTECH,Total patents,Sweden,0.0,,,,0
+_Z,NANOTECH,Total patents,Switzerland,0.0,,,,0
+_Z,NANOTECH,Total patents,TTO,0.0,,,,0
+_Z,NANOTECH,Total patents,TUN,0.0,,,,0
+_Z,NANOTECH,Total patents,Taiwan,0.0,,,,0
+_Z,NANOTECH,Total patents,Thailand,0.0,,,,0
+_Z,NANOTECH,Total patents,Turkey,0.0,,,,0
+_Z,NANOTECH,Total patents,UKR,0.0,,,,0
+_Z,NANOTECH,Total patents,URY,0.0,,,,0
+_Z,NANOTECH,Total patents,UZB,0.0,,,,0
+_Z,NANOTECH,Total patents,United Kingdom,0.0,,,,0
+_Z,NANOTECH,Total patents,United States,0.0,,,,0
+_Z,NANOTECH,Total patents,VEN,0.0,,,,0
+_Z,NANOTECH,Total patents,World Total,0.0,,,,0
+_Z,NANOTECH,Total patents,YUG_F,0.0,,,,0
+_Z,NANOTECH,Total patents,ZWE,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,AND,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ARE,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ARG,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ARM,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Australia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Austria,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,BGR,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,BIH,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,BLR,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,BMU,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Belgium,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Brazil,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,CHL,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,COL,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,CRI,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,CUB,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,CYM,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,CYP,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Canada,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,China,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Czech Republic,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,DJI,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,DZA,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Denmark,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ECU,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,EGY,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Estonia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,European Union (27),0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Finland,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,France,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,GEO,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,GTM,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Germany,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Greece,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,HRV,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Hong Kong,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Hungary,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,IRN,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ISL,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,India,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Indonesia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Ireland,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Israel,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Italy,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,JAM,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,JOR,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Japan,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,KAZ,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,KEN,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,KWT,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,LBN,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,LIE,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,LKA,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,LUX,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Latvia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Lithuania,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,MAR,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,MCO,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,MDA,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,MKD,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,MLT,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,MNG,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Malaysia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Mexico,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,NGA,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,NZL,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Netherlands,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Norway,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,OECD Total,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,PAK,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,PAN,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,PER,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,PRI,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,PRK,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Philippines,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Poland,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Portugal,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ROU,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Russia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,SAU,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,SLV,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,SYC,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Singapore,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Slovakia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Slovenia,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,South Africa,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,South Korea,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Spain,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Sweden,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Switzerland,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,TTO,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,TUN,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Taiwan,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Thailand,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,Turkey,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,UKR,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,URY,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,UZB,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,United Kingdom,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,United States,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,VEN,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,World Total,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,YUG_F,0.0,,,,0
+_Z,TOTAL_EST,Biotechnology,ZWE,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,AND,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ARE,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ARG,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ARM,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Australia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Austria,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,BGR,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,BIH,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,BLR,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,BMU,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Belgium,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Brazil,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,CHL,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,COL,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,CRI,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,CUB,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,CYM,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,CYP,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Canada,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,China,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Czech Republic,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,DJI,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,DZA,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Denmark,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ECU,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,EGY,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Estonia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,European Union (27),0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Finland,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,France,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,GEO,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,GTM,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Germany,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Greece,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,HRV,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Hong Kong,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Hungary,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,IRN,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ISL,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,India,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Indonesia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Ireland,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Israel,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Italy,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,JAM,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,JOR,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Japan,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,KAZ,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,KEN,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,KWT,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,LBN,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,LIE,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,LKA,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,LUX,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Latvia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Lithuania,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,MAR,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,MCO,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,MDA,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,MKD,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,MLT,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,MNG,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Malaysia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Mexico,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,NGA,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,NZL,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Netherlands,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Norway,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,OECD Total,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,PAK,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,PAN,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,PER,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,PRI,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,PRK,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Philippines,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Poland,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Portugal,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ROU,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Russia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,SAU,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,SLV,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,SYC,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Singapore,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Slovakia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Slovenia,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,South Africa,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,South Korea,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Spain,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Sweden,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Switzerland,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,TTO,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,TUN,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Taiwan,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Thailand,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,Turkey,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,UKR,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,URY,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,UZB,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,United Kingdom,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,United States,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,VEN,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,World Total,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,YUG_F,0.0,,,,0
+_Z,TOTAL_EST,Nanotechnology,ZWE,0.0,,,,0
+_Z,TOTAL_EST,Nowcasts,AND,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,ARE,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,ARG,60.66,3.19,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,ARM,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Australia,2020.24,106.33,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Austria,1878.99,98.89,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,BGR,36.0,1.89,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,BIH,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,BLR,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,BMU,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Belgium,2008.89,105.73,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Brazil,330.48,17.39,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,CHL,60.27,3.17,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,COL,38.46,2.02,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,CRI,16.22,0.85,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,CUB,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,CYM,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,CYP,12.5,0.66,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Canada,3403.21,179.12,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,China,26979.91,1420.0,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Czech Republic,286.22,15.06,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,DJI,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,DZA,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Denmark,1547.49,81.45,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,ECU,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,EGY,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Estonia,44.65,2.35,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,European Union (27),56179.19,2956.8,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Finland,1590.55,83.71,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,France,10044.57,528.66,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,GEO,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,GTM,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Germany,22210.79,1168.99,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Greece,103.86,5.47,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,HRV,24.03,1.26,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Hong Kong,151.64,7.98,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Hungary,215.45,11.34,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,IRN,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,ISL,48.94,2.58,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,India,2150.64,113.19,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Indonesia,18.17,0.96,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Ireland,702.49,36.97,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Israel,3446.96,181.42,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Italy,4464.12,234.95,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,JAM,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,JOR,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Japan,85931.64,4522.72,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,KAZ,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,KEN,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,KWT,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,LBN,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,LIE,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,LKA,30.28,1.59,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,LUX,127.94,6.73,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Latvia,20.51,1.08,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Lithuania,53.46,2.81,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,MAR,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,MCO,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,MDA,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,MKD,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,MLT,14.33,0.75,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,MNG,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Malaysia,119.52,6.29,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Mexico,104.28,5.49,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,NGA,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,NZL,348.36,18.33,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Netherlands,4452.74,234.35,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Norway,645.33,33.96,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,OECD Total,255567.86,13450.94,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,PAK,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,PAN,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,PER,4.39,0.23,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,PRI,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,PRK,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Philippines,27.89,1.47,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Poland,333.83,17.57,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Portugal,196.47,10.34,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,ROU,105.35,5.54,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Russia,619.5,32.61,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,SAU,532.42,28.02,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,SLV,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,SYC,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Singapore,943.22,49.64,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Slovakia,74.24,3.91,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Slovenia,68.23,3.59,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,South Africa,69.75,3.67,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,South Korea,16832.55,885.92,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Spain,1639.04,86.27,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Sweden,3922.46,206.45,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Switzerland,6871.21,361.64,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,TTO,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,TUN,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,Taiwan,2989.51,157.34,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Thailand,109.78,5.78,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,Turkey,333.63,17.56,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,UKR,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,URY,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,UZB,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,United Kingdom,8986.4,472.97,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,United States,70493.18,3710.17,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,VEN,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,World Total,291669.0,15351.0,2017.0,2021.0,19
+_Z,TOTAL_EST,Nowcasts,YUG_F,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Nowcasts,ZWE,0.0,0.0,2017.0,2020.0,14
+_Z,TOTAL_EST,Total patents,AND,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ARE,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ARG,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ARM,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Australia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Austria,0.0,,,,0
+_Z,TOTAL_EST,Total patents,BGR,0.0,,,,0
+_Z,TOTAL_EST,Total patents,BIH,0.0,,,,0
+_Z,TOTAL_EST,Total patents,BLR,0.0,,,,0
+_Z,TOTAL_EST,Total patents,BMU,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Belgium,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Brazil,0.0,,,,0
+_Z,TOTAL_EST,Total patents,CHL,0.0,,,,0
+_Z,TOTAL_EST,Total patents,COL,0.0,,,,0
+_Z,TOTAL_EST,Total patents,CRI,0.0,,,,0
+_Z,TOTAL_EST,Total patents,CUB,0.0,,,,0
+_Z,TOTAL_EST,Total patents,CYM,0.0,,,,0
+_Z,TOTAL_EST,Total patents,CYP,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Canada,0.0,,,,0
+_Z,TOTAL_EST,Total patents,China,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Czech Republic,0.0,,,,0
+_Z,TOTAL_EST,Total patents,DJI,0.0,,,,0
+_Z,TOTAL_EST,Total patents,DZA,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Denmark,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ECU,0.0,,,,0
+_Z,TOTAL_EST,Total patents,EGY,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Estonia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,European Union (27),0.0,,,,0
+_Z,TOTAL_EST,Total patents,Finland,0.0,,,,0
+_Z,TOTAL_EST,Total patents,France,0.0,,,,0
+_Z,TOTAL_EST,Total patents,GEO,0.0,,,,0
+_Z,TOTAL_EST,Total patents,GTM,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Germany,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Greece,0.0,,,,0
+_Z,TOTAL_EST,Total patents,HRV,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Hong Kong,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Hungary,0.0,,,,0
+_Z,TOTAL_EST,Total patents,IRN,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ISL,0.0,,,,0
+_Z,TOTAL_EST,Total patents,India,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Indonesia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Ireland,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Israel,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Italy,0.0,,,,0
+_Z,TOTAL_EST,Total patents,JAM,0.0,,,,0
+_Z,TOTAL_EST,Total patents,JOR,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Japan,0.0,,,,0
+_Z,TOTAL_EST,Total patents,KAZ,0.0,,,,0
+_Z,TOTAL_EST,Total patents,KEN,0.0,,,,0
+_Z,TOTAL_EST,Total patents,KWT,0.0,,,,0
+_Z,TOTAL_EST,Total patents,LBN,0.0,,,,0
+_Z,TOTAL_EST,Total patents,LIE,0.0,,,,0
+_Z,TOTAL_EST,Total patents,LKA,0.0,,,,0
+_Z,TOTAL_EST,Total patents,LUX,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Latvia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Lithuania,0.0,,,,0
+_Z,TOTAL_EST,Total patents,MAR,0.0,,,,0
+_Z,TOTAL_EST,Total patents,MCO,0.0,,,,0
+_Z,TOTAL_EST,Total patents,MDA,0.0,,,,0
+_Z,TOTAL_EST,Total patents,MKD,0.0,,,,0
+_Z,TOTAL_EST,Total patents,MLT,0.0,,,,0
+_Z,TOTAL_EST,Total patents,MNG,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Malaysia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Mexico,0.0,,,,0
+_Z,TOTAL_EST,Total patents,NGA,0.0,,,,0
+_Z,TOTAL_EST,Total patents,NZL,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Netherlands,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Norway,0.0,,,,0
+_Z,TOTAL_EST,Total patents,OECD Total,0.0,,,,0
+_Z,TOTAL_EST,Total patents,PAK,0.0,,,,0
+_Z,TOTAL_EST,Total patents,PAN,0.0,,,,0
+_Z,TOTAL_EST,Total patents,PER,0.0,,,,0
+_Z,TOTAL_EST,Total patents,PRI,0.0,,,,0
+_Z,TOTAL_EST,Total patents,PRK,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Philippines,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Poland,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Portugal,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ROU,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Russia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,SAU,0.0,,,,0
+_Z,TOTAL_EST,Total patents,SLV,0.0,,,,0
+_Z,TOTAL_EST,Total patents,SYC,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Singapore,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Slovakia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Slovenia,0.0,,,,0
+_Z,TOTAL_EST,Total patents,South Africa,0.0,,,,0
+_Z,TOTAL_EST,Total patents,South Korea,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Spain,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Sweden,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Switzerland,0.0,,,,0
+_Z,TOTAL_EST,Total patents,TTO,0.0,,,,0
+_Z,TOTAL_EST,Total patents,TUN,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Taiwan,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Thailand,0.0,,,,0
+_Z,TOTAL_EST,Total patents,Turkey,0.0,,,,0
+_Z,TOTAL_EST,Total patents,UKR,0.0,,,,0
+_Z,TOTAL_EST,Total patents,URY,0.0,,,,0
+_Z,TOTAL_EST,Total patents,UZB,0.0,,,,0
+_Z,TOTAL_EST,Total patents,United Kingdom,0.0,,,,0
+_Z,TOTAL_EST,Total patents,United States,0.0,,,,0
+_Z,TOTAL_EST,Total patents,VEN,0.0,,,,0
+_Z,TOTAL_EST,Total patents,World Total,0.0,,,,0
+_Z,TOTAL_EST,Total patents,YUG_F,0.0,,,,0
+_Z,TOTAL_EST,Total patents,ZWE,0.0,,,,0
+_Z,_T,Biotechnology,AND,0.0,,,,0
+_Z,_T,Biotechnology,ARE,0.0,,,,0
+_Z,_T,Biotechnology,ARG,0.0,,,,0
+_Z,_T,Biotechnology,ARM,0.0,,,,0
+_Z,_T,Biotechnology,Australia,0.0,,,,0
+_Z,_T,Biotechnology,Austria,0.0,,,,0
+_Z,_T,Biotechnology,BGR,0.0,,,,0
+_Z,_T,Biotechnology,BIH,0.0,,,,0
+_Z,_T,Biotechnology,BLR,0.0,,,,0
+_Z,_T,Biotechnology,BMU,0.0,,,,0
+_Z,_T,Biotechnology,Belgium,0.0,,,,0
+_Z,_T,Biotechnology,Brazil,0.0,,,,0
+_Z,_T,Biotechnology,CHL,0.0,,,,0
+_Z,_T,Biotechnology,COL,0.0,,,,0
+_Z,_T,Biotechnology,CRI,0.0,,,,0
+_Z,_T,Biotechnology,CUB,0.0,,,,0
+_Z,_T,Biotechnology,CYM,0.0,,,,0
+_Z,_T,Biotechnology,CYP,0.0,,,,0
+_Z,_T,Biotechnology,Canada,0.0,,,,0
+_Z,_T,Biotechnology,China,0.0,,,,0
+_Z,_T,Biotechnology,Czech Republic,0.0,,,,0
+_Z,_T,Biotechnology,DJI,0.0,,,,0
+_Z,_T,Biotechnology,DZA,0.0,,,,0
+_Z,_T,Biotechnology,Denmark,0.0,,,,0
+_Z,_T,Biotechnology,ECU,0.0,,,,0
+_Z,_T,Biotechnology,EGY,0.0,,,,0
+_Z,_T,Biotechnology,Estonia,0.0,,,,0
+_Z,_T,Biotechnology,European Union (27),0.0,,,,0
+_Z,_T,Biotechnology,Finland,0.0,,,,0
+_Z,_T,Biotechnology,France,0.0,,,,0
+_Z,_T,Biotechnology,GEO,0.0,,,,0
+_Z,_T,Biotechnology,GTM,0.0,,,,0
+_Z,_T,Biotechnology,Germany,0.0,,,,0
+_Z,_T,Biotechnology,Greece,0.0,,,,0
+_Z,_T,Biotechnology,HRV,0.0,,,,0
+_Z,_T,Biotechnology,Hong Kong,0.0,,,,0
+_Z,_T,Biotechnology,Hungary,0.0,,,,0
+_Z,_T,Biotechnology,IRN,0.0,,,,0
+_Z,_T,Biotechnology,ISL,0.0,,,,0
+_Z,_T,Biotechnology,India,0.0,,,,0
+_Z,_T,Biotechnology,Indonesia,0.0,,,,0
+_Z,_T,Biotechnology,Ireland,0.0,,,,0
+_Z,_T,Biotechnology,Israel,0.0,,,,0
+_Z,_T,Biotechnology,Italy,0.0,,,,0
+_Z,_T,Biotechnology,JAM,0.0,,,,0
+_Z,_T,Biotechnology,JOR,0.0,,,,0
+_Z,_T,Biotechnology,Japan,0.0,,,,0
+_Z,_T,Biotechnology,KAZ,0.0,,,,0
+_Z,_T,Biotechnology,KEN,0.0,,,,0
+_Z,_T,Biotechnology,KWT,0.0,,,,0
+_Z,_T,Biotechnology,LBN,0.0,,,,0
+_Z,_T,Biotechnology,LIE,0.0,,,,0
+_Z,_T,Biotechnology,LKA,0.0,,,,0
+_Z,_T,Biotechnology,LUX,0.0,,,,0
+_Z,_T,Biotechnology,Latvia,0.0,,,,0
+_Z,_T,Biotechnology,Lithuania,0.0,,,,0
+_Z,_T,Biotechnology,MAR,0.0,,,,0
+_Z,_T,Biotechnology,MCO,0.0,,,,0
+_Z,_T,Biotechnology,MDA,0.0,,,,0
+_Z,_T,Biotechnology,MKD,0.0,,,,0
+_Z,_T,Biotechnology,MLT,0.0,,,,0
+_Z,_T,Biotechnology,MNG,0.0,,,,0
+_Z,_T,Biotechnology,Malaysia,0.0,,,,0
+_Z,_T,Biotechnology,Mexico,0.0,,,,0
+_Z,_T,Biotechnology,NGA,0.0,,,,0
+_Z,_T,Biotechnology,NZL,0.0,,,,0
+_Z,_T,Biotechnology,Netherlands,0.0,,,,0
+_Z,_T,Biotechnology,Norway,0.0,,,,0
+_Z,_T,Biotechnology,OECD Total,0.0,,,,0
+_Z,_T,Biotechnology,PAK,0.0,,,,0
+_Z,_T,Biotechnology,PAN,0.0,,,,0
+_Z,_T,Biotechnology,PER,0.0,,,,0
+_Z,_T,Biotechnology,PRI,0.0,,,,0
+_Z,_T,Biotechnology,PRK,0.0,,,,0
+_Z,_T,Biotechnology,Philippines,0.0,,,,0
+_Z,_T,Biotechnology,Poland,0.0,,,,0
+_Z,_T,Biotechnology,Portugal,0.0,,,,0
+_Z,_T,Biotechnology,ROU,0.0,,,,0
+_Z,_T,Biotechnology,Russia,0.0,,,,0
+_Z,_T,Biotechnology,SAU,0.0,,,,0
+_Z,_T,Biotechnology,SLV,0.0,,,,0
+_Z,_T,Biotechnology,SYC,0.0,,,,0
+_Z,_T,Biotechnology,Singapore,0.0,,,,0
+_Z,_T,Biotechnology,Slovakia,0.0,,,,0
+_Z,_T,Biotechnology,Slovenia,0.0,,,,0
+_Z,_T,Biotechnology,South Africa,0.0,,,,0
+_Z,_T,Biotechnology,South Korea,0.0,,,,0
+_Z,_T,Biotechnology,Spain,0.0,,,,0
+_Z,_T,Biotechnology,Sweden,0.0,,,,0
+_Z,_T,Biotechnology,Switzerland,0.0,,,,0
+_Z,_T,Biotechnology,TTO,0.0,,,,0
+_Z,_T,Biotechnology,TUN,0.0,,,,0
+_Z,_T,Biotechnology,Taiwan,0.0,,,,0
+_Z,_T,Biotechnology,Thailand,0.0,,,,0
+_Z,_T,Biotechnology,Turkey,0.0,,,,0
+_Z,_T,Biotechnology,UKR,0.0,,,,0
+_Z,_T,Biotechnology,URY,0.0,,,,0
+_Z,_T,Biotechnology,UZB,0.0,,,,0
+_Z,_T,Biotechnology,United Kingdom,0.0,,,,0
+_Z,_T,Biotechnology,United States,0.0,,,,0
+_Z,_T,Biotechnology,VEN,0.0,,,,0
+_Z,_T,Biotechnology,World Total,0.0,,,,0
+_Z,_T,Biotechnology,YUG_F,0.0,,,,0
+_Z,_T,Biotechnology,ZWE,0.0,,,,0
+_Z,_T,Nanotechnology,AND,0.0,,,,0
+_Z,_T,Nanotechnology,ARE,0.0,,,,0
+_Z,_T,Nanotechnology,ARG,0.0,,,,0
+_Z,_T,Nanotechnology,ARM,0.0,,,,0
+_Z,_T,Nanotechnology,Australia,0.0,,,,0
+_Z,_T,Nanotechnology,Austria,0.0,,,,0
+_Z,_T,Nanotechnology,BGR,0.0,,,,0
+_Z,_T,Nanotechnology,BIH,0.0,,,,0
+_Z,_T,Nanotechnology,BLR,0.0,,,,0
+_Z,_T,Nanotechnology,BMU,0.0,,,,0
+_Z,_T,Nanotechnology,Belgium,0.0,,,,0
+_Z,_T,Nanotechnology,Brazil,0.0,,,,0
+_Z,_T,Nanotechnology,CHL,0.0,,,,0
+_Z,_T,Nanotechnology,COL,0.0,,,,0
+_Z,_T,Nanotechnology,CRI,0.0,,,,0
+_Z,_T,Nanotechnology,CUB,0.0,,,,0
+_Z,_T,Nanotechnology,CYM,0.0,,,,0
+_Z,_T,Nanotechnology,CYP,0.0,,,,0
+_Z,_T,Nanotechnology,Canada,0.0,,,,0
+_Z,_T,Nanotechnology,China,0.0,,,,0
+_Z,_T,Nanotechnology,Czech Republic,0.0,,,,0
+_Z,_T,Nanotechnology,DJI,0.0,,,,0
+_Z,_T,Nanotechnology,DZA,0.0,,,,0
+_Z,_T,Nanotechnology,Denmark,0.0,,,,0
+_Z,_T,Nanotechnology,ECU,0.0,,,,0
+_Z,_T,Nanotechnology,EGY,0.0,,,,0
+_Z,_T,Nanotechnology,Estonia,0.0,,,,0
+_Z,_T,Nanotechnology,European Union (27),0.0,,,,0
+_Z,_T,Nanotechnology,Finland,0.0,,,,0
+_Z,_T,Nanotechnology,France,0.0,,,,0
+_Z,_T,Nanotechnology,GEO,0.0,,,,0
+_Z,_T,Nanotechnology,GTM,0.0,,,,0
+_Z,_T,Nanotechnology,Germany,0.0,,,,0
+_Z,_T,Nanotechnology,Greece,0.0,,,,0
+_Z,_T,Nanotechnology,HRV,0.0,,,,0
+_Z,_T,Nanotechnology,Hong Kong,0.0,,,,0
+_Z,_T,Nanotechnology,Hungary,0.0,,,,0
+_Z,_T,Nanotechnology,IRN,0.0,,,,0
+_Z,_T,Nanotechnology,ISL,0.0,,,,0
+_Z,_T,Nanotechnology,India,0.0,,,,0
+_Z,_T,Nanotechnology,Indonesia,0.0,,,,0
+_Z,_T,Nanotechnology,Ireland,0.0,,,,0
+_Z,_T,Nanotechnology,Israel,0.0,,,,0
+_Z,_T,Nanotechnology,Italy,0.0,,,,0
+_Z,_T,Nanotechnology,JAM,0.0,,,,0
+_Z,_T,Nanotechnology,JOR,0.0,,,,0
+_Z,_T,Nanotechnology,Japan,0.0,,,,0
+_Z,_T,Nanotechnology,KAZ,0.0,,,,0
+_Z,_T,Nanotechnology,KEN,0.0,,,,0
+_Z,_T,Nanotechnology,KWT,0.0,,,,0
+_Z,_T,Nanotechnology,LBN,0.0,,,,0
+_Z,_T,Nanotechnology,LIE,0.0,,,,0
+_Z,_T,Nanotechnology,LKA,0.0,,,,0
+_Z,_T,Nanotechnology,LUX,0.0,,,,0
+_Z,_T,Nanotechnology,Latvia,0.0,,,,0
+_Z,_T,Nanotechnology,Lithuania,0.0,,,,0
+_Z,_T,Nanotechnology,MAR,0.0,,,,0
+_Z,_T,Nanotechnology,MCO,0.0,,,,0
+_Z,_T,Nanotechnology,MDA,0.0,,,,0
+_Z,_T,Nanotechnology,MKD,0.0,,,,0
+_Z,_T,Nanotechnology,MLT,0.0,,,,0
+_Z,_T,Nanotechnology,MNG,0.0,,,,0
+_Z,_T,Nanotechnology,Malaysia,0.0,,,,0
+_Z,_T,Nanotechnology,Mexico,0.0,,,,0
+_Z,_T,Nanotechnology,NGA,0.0,,,,0
+_Z,_T,Nanotechnology,NZL,0.0,,,,0
+_Z,_T,Nanotechnology,Netherlands,0.0,,,,0
+_Z,_T,Nanotechnology,Norway,0.0,,,,0
+_Z,_T,Nanotechnology,OECD Total,0.0,,,,0
+_Z,_T,Nanotechnology,PAK,0.0,,,,0
+_Z,_T,Nanotechnology,PAN,0.0,,,,0
+_Z,_T,Nanotechnology,PER,0.0,,,,0
+_Z,_T,Nanotechnology,PRI,0.0,,,,0
+_Z,_T,Nanotechnology,PRK,0.0,,,,0
+_Z,_T,Nanotechnology,Philippines,0.0,,,,0
+_Z,_T,Nanotechnology,Poland,0.0,,,,0
+_Z,_T,Nanotechnology,Portugal,0.0,,,,0
+_Z,_T,Nanotechnology,ROU,0.0,,,,0
+_Z,_T,Nanotechnology,Russia,0.0,,,,0
+_Z,_T,Nanotechnology,SAU,0.0,,,,0
+_Z,_T,Nanotechnology,SLV,0.0,,,,0
+_Z,_T,Nanotechnology,SYC,0.0,,,,0
+_Z,_T,Nanotechnology,Singapore,0.0,,,,0
+_Z,_T,Nanotechnology,Slovakia,0.0,,,,0
+_Z,_T,Nanotechnology,Slovenia,0.0,,,,0
+_Z,_T,Nanotechnology,South Africa,0.0,,,,0
+_Z,_T,Nanotechnology,South Korea,0.0,,,,0
+_Z,_T,Nanotechnology,Spain,0.0,,,,0
+_Z,_T,Nanotechnology,Sweden,0.0,,,,0
+_Z,_T,Nanotechnology,Switzerland,0.0,,,,0
+_Z,_T,Nanotechnology,TTO,0.0,,,,0
+_Z,_T,Nanotechnology,TUN,0.0,,,,0
+_Z,_T,Nanotechnology,Taiwan,0.0,,,,0
+_Z,_T,Nanotechnology,Thailand,0.0,,,,0
+_Z,_T,Nanotechnology,Turkey,0.0,,,,0
+_Z,_T,Nanotechnology,UKR,0.0,,,,0
+_Z,_T,Nanotechnology,URY,0.0,,,,0
+_Z,_T,Nanotechnology,UZB,0.0,,,,0
+_Z,_T,Nanotechnology,United Kingdom,0.0,,,,0
+_Z,_T,Nanotechnology,United States,0.0,,,,0
+_Z,_T,Nanotechnology,VEN,0.0,,,,0
+_Z,_T,Nanotechnology,World Total,0.0,,,,0
+_Z,_T,Nanotechnology,YUG_F,0.0,,,,0
+_Z,_T,Nanotechnology,ZWE,0.0,,,,0
+_Z,_T,Nowcasts,AND,0.0,,,,0
+_Z,_T,Nowcasts,ARE,0.0,,,,0
+_Z,_T,Nowcasts,ARG,0.0,,,,0
+_Z,_T,Nowcasts,ARM,0.0,,,,0
+_Z,_T,Nowcasts,Australia,0.0,,,,0
+_Z,_T,Nowcasts,Austria,0.0,,,,0
+_Z,_T,Nowcasts,BGR,0.0,,,,0
+_Z,_T,Nowcasts,BIH,0.0,,,,0
+_Z,_T,Nowcasts,BLR,0.0,,,,0
+_Z,_T,Nowcasts,BMU,0.0,,,,0
+_Z,_T,Nowcasts,Belgium,0.0,,,,0
+_Z,_T,Nowcasts,Brazil,0.0,,,,0
+_Z,_T,Nowcasts,CHL,0.0,,,,0
+_Z,_T,Nowcasts,COL,0.0,,,,0
+_Z,_T,Nowcasts,CRI,0.0,,,,0
+_Z,_T,Nowcasts,CUB,0.0,,,,0
+_Z,_T,Nowcasts,CYM,0.0,,,,0
+_Z,_T,Nowcasts,CYP,0.0,,,,0
+_Z,_T,Nowcasts,Canada,0.0,,,,0
+_Z,_T,Nowcasts,China,0.0,,,,0
+_Z,_T,Nowcasts,Czech Republic,0.0,,,,0
+_Z,_T,Nowcasts,DJI,0.0,,,,0
+_Z,_T,Nowcasts,DZA,0.0,,,,0
+_Z,_T,Nowcasts,Denmark,0.0,,,,0
+_Z,_T,Nowcasts,ECU,0.0,,,,0
+_Z,_T,Nowcasts,EGY,0.0,,,,0
+_Z,_T,Nowcasts,Estonia,0.0,,,,0
+_Z,_T,Nowcasts,European Union (27),0.0,,,,0
+_Z,_T,Nowcasts,Finland,0.0,,,,0
+_Z,_T,Nowcasts,France,0.0,,,,0
+_Z,_T,Nowcasts,GEO,0.0,,,,0
+_Z,_T,Nowcasts,GTM,0.0,,,,0
+_Z,_T,Nowcasts,Germany,0.0,,,,0
+_Z,_T,Nowcasts,Greece,0.0,,,,0
+_Z,_T,Nowcasts,HRV,0.0,,,,0
+_Z,_T,Nowcasts,Hong Kong,0.0,,,,0
+_Z,_T,Nowcasts,Hungary,0.0,,,,0
+_Z,_T,Nowcasts,IRN,0.0,,,,0
+_Z,_T,Nowcasts,ISL,0.0,,,,0
+_Z,_T,Nowcasts,India,0.0,,,,0
+_Z,_T,Nowcasts,Indonesia,0.0,,,,0
+_Z,_T,Nowcasts,Ireland,0.0,,,,0
+_Z,_T,Nowcasts,Israel,0.0,,,,0
+_Z,_T,Nowcasts,Italy,0.0,,,,0
+_Z,_T,Nowcasts,JAM,0.0,,,,0
+_Z,_T,Nowcasts,JOR,0.0,,,,0
+_Z,_T,Nowcasts,Japan,0.0,,,,0
+_Z,_T,Nowcasts,KAZ,0.0,,,,0
+_Z,_T,Nowcasts,KEN,0.0,,,,0
+_Z,_T,Nowcasts,KWT,0.0,,,,0
+_Z,_T,Nowcasts,LBN,0.0,,,,0
+_Z,_T,Nowcasts,LIE,0.0,,,,0
+_Z,_T,Nowcasts,LKA,0.0,,,,0
+_Z,_T,Nowcasts,LUX,0.0,,,,0
+_Z,_T,Nowcasts,Latvia,0.0,,,,0
+_Z,_T,Nowcasts,Lithuania,0.0,,,,0
+_Z,_T,Nowcasts,MAR,0.0,,,,0
+_Z,_T,Nowcasts,MCO,0.0,,,,0
+_Z,_T,Nowcasts,MDA,0.0,,,,0
+_Z,_T,Nowcasts,MKD,0.0,,,,0
+_Z,_T,Nowcasts,MLT,0.0,,,,0
+_Z,_T,Nowcasts,MNG,0.0,,,,0
+_Z,_T,Nowcasts,Malaysia,0.0,,,,0
+_Z,_T,Nowcasts,Mexico,0.0,,,,0
+_Z,_T,Nowcasts,NGA,0.0,,,,0
+_Z,_T,Nowcasts,NZL,0.0,,,,0
+_Z,_T,Nowcasts,Netherlands,0.0,,,,0
+_Z,_T,Nowcasts,Norway,0.0,,,,0
+_Z,_T,Nowcasts,OECD Total,0.0,,,,0
+_Z,_T,Nowcasts,PAK,0.0,,,,0
+_Z,_T,Nowcasts,PAN,0.0,,,,0
+_Z,_T,Nowcasts,PER,0.0,,,,0
+_Z,_T,Nowcasts,PRI,0.0,,,,0
+_Z,_T,Nowcasts,PRK,0.0,,,,0
+_Z,_T,Nowcasts,Philippines,0.0,,,,0
+_Z,_T,Nowcasts,Poland,0.0,,,,0
+_Z,_T,Nowcasts,Portugal,0.0,,,,0
+_Z,_T,Nowcasts,ROU,0.0,,,,0
+_Z,_T,Nowcasts,Russia,0.0,,,,0
+_Z,_T,Nowcasts,SAU,0.0,,,,0
+_Z,_T,Nowcasts,SLV,0.0,,,,0
+_Z,_T,Nowcasts,SYC,0.0,,,,0
+_Z,_T,Nowcasts,Singapore,0.0,,,,0
+_Z,_T,Nowcasts,Slovakia,0.0,,,,0
+_Z,_T,Nowcasts,Slovenia,0.0,,,,0
+_Z,_T,Nowcasts,South Africa,0.0,,,,0
+_Z,_T,Nowcasts,South Korea,0.0,,,,0
+_Z,_T,Nowcasts,Spain,0.0,,,,0
+_Z,_T,Nowcasts,Sweden,0.0,,,,0
+_Z,_T,Nowcasts,Switzerland,0.0,,,,0
+_Z,_T,Nowcasts,TTO,0.0,,,,0
+_Z,_T,Nowcasts,TUN,0.0,,,,0
+_Z,_T,Nowcasts,Taiwan,0.0,,,,0
+_Z,_T,Nowcasts,Thailand,0.0,,,,0
+_Z,_T,Nowcasts,Turkey,0.0,,,,0
+_Z,_T,Nowcasts,UKR,0.0,,,,0
+_Z,_T,Nowcasts,URY,0.0,,,,0
+_Z,_T,Nowcasts,UZB,0.0,,,,0
+_Z,_T,Nowcasts,United Kingdom,0.0,,,,0
+_Z,_T,Nowcasts,United States,0.0,,,,0
+_Z,_T,Nowcasts,VEN,0.0,,,,0
+_Z,_T,Nowcasts,World Total,0.0,,,,0
+_Z,_T,Nowcasts,YUG_F,0.0,,,,0
+_Z,_T,Nowcasts,ZWE,0.0,,,,0
+_Z,_T,Total patents,AND,52.15,2.01,2017.0,2020.0,26
+_Z,_T,Total patents,ARE,1765.52,67.9,2017.0,2020.0,26
+_Z,_T,Total patents,ARG,1556.38,57.64,2017.0,2021.0,27
+_Z,_T,Total patents,ARM,175.25,6.74,2017.0,2020.0,26
+_Z,_T,Total patents,Australia,30037.67,1112.51,2017.0,2021.0,27
+_Z,_T,Total patents,Austria,37809.13,1400.34,2017.0,2021.0,27
+_Z,_T,Total patents,BGR,1170.95,43.37,2017.0,2021.0,27
+_Z,_T,Total patents,BIH,54.86,2.11,2017.0,2020.0,26
+_Z,_T,Total patents,BLR,440.32,16.94,2017.0,2020.0,26
+_Z,_T,Total patents,BMU,37.83,1.46,2017.0,2020.0,26
+_Z,_T,Total patents,Belgium,30817.64,1141.39,2017.0,2021.0,27
+_Z,_T,Total patents,Brazil,10258.1,379.93,2017.0,2021.0,27
+_Z,_T,Total patents,CHL,1825.87,67.62,2017.0,2021.0,27
+_Z,_T,Total patents,COL,1148.89,42.55,2017.0,2021.0,27
+_Z,_T,Total patents,CRI,478.35,17.72,2017.0,2021.0,27
+_Z,_T,Total patents,CUB,143.81,5.53,2017.0,2020.0,26
+_Z,_T,Total patents,CYM,184.13,7.08,2017.0,2020.0,26
+_Z,_T,Total patents,CYP,300.45,11.13,2017.0,2021.0,27
+_Z,_T,Total patents,Canada,87227.86,3230.66,2017.0,2021.0,27
+_Z,_T,Total patents,China,676098.93,25040.7,2017.0,2021.0,27
+_Z,_T,Total patents,Czech Republic,6236.36,230.98,2017.0,2021.0,27
+_Z,_T,Total patents,DJI,5.23,0.2,2017.0,2020.0,26
+_Z,_T,Total patents,DZA,68.19,2.62,2017.0,2020.0,26
+_Z,_T,Total patents,Denmark,28788.68,1066.25,2017.0,2021.0,27
+_Z,_T,Total patents,ECU,96.3,3.7,2017.0,2020.0,26
+_Z,_T,Total patents,EGY,529.19,20.35,2017.0,2020.0,26
+_Z,_T,Total patents,Estonia,905.44,33.53,2017.0,2021.0,27
+_Z,_T,Total patents,European Union (27),1034000.17,38296.3,2017.0,2021.0,27
+_Z,_T,Total patents,Finland,29348.24,1086.97,2017.0,2021.0,27
+_Z,_T,Total patents,France,170328.07,6308.45,2017.0,2021.0,27
+_Z,_T,Total patents,GEO,78.56,3.02,2017.0,2020.0,26
+_Z,_T,Total patents,GTM,38.36,1.48,2017.0,2020.0,26
+_Z,_T,Total patents,Germany,430668.65,15950.69,2017.0,2021.0,27
+_Z,_T,Total patents,Greece,2818.5,104.39,2017.0,2021.0,27
+_Z,_T,Total patents,HRV,668.44,24.76,2017.0,2021.0,27
+_Z,_T,Total patents,Hong Kong,8898.51,329.57,2017.0,2021.0,27
+_Z,_T,Total patents,Hungary,4459.16,165.15,2017.0,2021.0,27
+_Z,_T,Total patents,IRN,1441.49,55.44,2017.0,2020.0,26
+_Z,_T,Total patents,ISL,708.84,26.25,2017.0,2021.0,27
+_Z,_T,Total patents,India,73641.13,2727.45,2017.0,2021.0,27
+_Z,_T,Total patents,Indonesia,248.29,9.2,2017.0,2021.0,27
+_Z,_T,Total patents,Ireland,12437.31,460.64,2017.0,2021.0,27
+_Z,_T,Total patents,Israel,55995.98,2073.93,2017.0,2021.0,27
+_Z,_T,Total patents,Italy,87391.93,3236.74,2017.0,2021.0,27
+_Z,_T,Total patents,JAM,18.36,0.71,2017.0,2020.0,26
+_Z,_T,Total patents,JOR,163.5,6.29,2017.0,2020.0,26
+_Z,_T,Total patents,Japan,949032.52,35149.35,2017.0,2021.0,27
+_Z,_T,Total patents,KAZ,183.86,7.07,2017.0,2020.0,26
+_Z,_T,Total patents,KEN,199.93,7.69,2017.0,2020.0,26
+_Z,_T,Total patents,KWT,227.57,8.75,2017.0,2020.0,26
+_Z,_T,Total patents,LBN,285.54,10.98,2017.0,2020.0,26
+_Z,_T,Total patents,LIE,561.13,21.58,2017.0,2020.0,26
+_Z,_T,Total patents,LKA,310.04,11.48,2017.0,2021.0,27
+_Z,_T,Total patents,LUX,1902.22,70.45,2017.0,2021.0,27
+_Z,_T,Total patents,Latvia,502.49,18.61,2017.0,2021.0,27
+_Z,_T,Total patents,Lithuania,781.16,28.93,2017.0,2021.0,27
+_Z,_T,Total patents,MAR,315.1,12.12,2017.0,2020.0,26
+_Z,_T,Total patents,MCO,239.26,9.2,2017.0,2020.0,26
+_Z,_T,Total patents,MDA,48.2,1.85,2017.0,2020.0,26
+_Z,_T,Total patents,MKD,57.54,2.21,2017.0,2020.0,26
+_Z,_T,Total patents,MLT,442.45,16.39,2017.0,2021.0,27
+_Z,_T,Total patents,MNG,19.0,0.73,2017.0,2020.0,26
+_Z,_T,Total patents,Malaysia,3862.19,143.04,2017.0,2021.0,27
+_Z,_T,Total patents,Mexico,4409.9,163.33,2017.0,2021.0,27
+_Z,_T,Total patents,NGA,47.78,1.84,2017.0,2020.0,26
+_Z,_T,Total patents,NZL,4805.17,177.97,2017.0,2021.0,27
+_Z,_T,Total patents,Netherlands,67711.12,2507.82,2017.0,2021.0,27
+_Z,_T,Total patents,Norway,12507.25,463.23,2017.0,2021.0,27
+_Z,_T,Total patents,OECD Total,4368844.32,161809.05,2017.0,2021.0,27
+_Z,_T,Total patents,PAK,273.57,10.52,2017.0,2020.0,26
+_Z,_T,Total patents,PAN,228.83,8.8,2017.0,2020.0,26
+_Z,_T,Total patents,PER,377.85,13.99,2017.0,2021.0,27
+_Z,_T,Total patents,PRI,89.25,3.43,2017.0,2020.0,26
+_Z,_T,Total patents,PRK,85.61,3.29,2017.0,2020.0,26
+_Z,_T,Total patents,Philippines,950.64,35.21,2017.0,2021.0,27
+_Z,_T,Total patents,Poland,11015.84,407.99,2017.0,2021.0,27
+_Z,_T,Total patents,Portugal,4149.96,153.7,2017.0,2021.0,27
+_Z,_T,Total patents,ROU,1995.62,73.91,2017.0,2021.0,27
+_Z,_T,Total patents,Russia,13281.92,491.92,2017.0,2021.0,27
+_Z,_T,Total patents,SAU,13677.32,506.57,2017.0,2021.0,27
+_Z,_T,Total patents,SLV,13.66,0.53,2017.0,2020.0,26
+_Z,_T,Total patents,SYC,30.57,1.18,2017.0,2020.0,26
+_Z,_T,Total patents,Singapore,17173.28,636.05,2017.0,2021.0,27
+_Z,_T,Total patents,Slovakia,1342.0,49.7,2017.0,2021.0,27
+_Z,_T,Total patents,Slovenia,2423.62,89.76,2017.0,2021.0,27
+_Z,_T,Total patents,South Africa,3135.52,116.13,2017.0,2021.0,27
+_Z,_T,Total patents,South Korea,371437.53,13756.95,2017.0,2021.0,27
+_Z,_T,Total patents,Spain,31849.44,1179.61,2017.0,2021.0,27
+_Z,_T,Total patents,Sweden,65735.32,2434.64,2017.0,2021.0,27
+_Z,_T,Total patents,Switzerland,68491.3,2536.71,2017.0,2021.0,27
+_Z,_T,Total patents,TTO,35.72,1.37,2017.0,2020.0,26
+_Z,_T,Total patents,TUN,140.85,5.42,2017.0,2020.0,26
+_Z,_T,Total patents,Taiwan,148430.61,5497.43,2017.0,2021.0,27
+_Z,_T,Total patents,Thailand,1821.53,67.46,2017.0,2021.0,27
+_Z,_T,Total patents,Turkey,14303.56,529.76,2017.0,2021.0,27
+_Z,_T,Total patents,UKR,1707.16,65.66,2017.0,2020.0,26
+_Z,_T,Total patents,URY,177.11,6.81,2017.0,2020.0,26
+_Z,_T,Total patents,UZB,21.8,0.84,2017.0,2020.0,26
+_Z,_T,Total patents,United Kingdom,134129.3,4967.75,2017.0,2021.0,27
+_Z,_T,Total patents,United States,1602882.06,59366.0,2017.0,2021.0,27
+_Z,_T,Total patents,VEN,49.9,1.92,2017.0,2020.0,26
+_Z,_T,Total patents,World Total,5370403.14,198903.82,2017.0,2021.0,27
+_Z,_T,Total patents,YUG_F,0.58,0.02,2017.0,2020.0,26
+_Z,_T,Total patents,ZWE,8.03,0.31,2017.0,2020.0,26
